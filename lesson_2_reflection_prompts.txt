@@ -27,5 +27,7 @@ You can see linearly how all the history happened and go back and forward to des
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+All the files are combined in a new master. We represent it as we dont wanna lost the track about which commits we had and how to come back if we lose something.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
