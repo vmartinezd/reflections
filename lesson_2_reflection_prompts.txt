@@ -12,6 +12,8 @@ The value is that you can check when to add or remove files to your project with
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+You can use the staging area for that adding only to the staging area those files that are related to that logical change, and once is working commit the changes.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
