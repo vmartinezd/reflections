@@ -31,3 +31,6 @@ All the files are combined in a new master. We represent it as we dont wanna los
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+When you merge automatically is very fast if there is no conflicts between files, if not you need to do conflict resolution which could take lot of time sometimes.
+Manually merging is less powerful but everything gets more controlled.
