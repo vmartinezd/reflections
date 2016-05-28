@@ -22,6 +22,8 @@ branches help by creating different flavours and you can keep track of all the c
 
 How do the diagrams help you visualize the branch structure?
 
+You can see linearly how all the history happened and go back and forward to desired points in the control version
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
