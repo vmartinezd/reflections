@@ -5,6 +5,10 @@ When you initialize the repository all the git files are created but its not com
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+The working directory is where you make all your changes, the staging area where you can keep track of the files and the repository it's lets say a working version of the project
+The value is that you can check when to add or remove files to your project without tracking the progress.
+
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
